@@ -1,4 +1,4 @@
-## Color Picker Extension for Chromium based browser (Google Chrome, Microsoft Edge, Opera mini) - Using in Development Mode
+## Color Picker Extension for any Chromium based browser (Google Chrome, Microsoft Edge, Opera mini) - Using in Development Mode
 
 This README provides instructions on how to use the color picker Chrome extension in development mode. 
 
